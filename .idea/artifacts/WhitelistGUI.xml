@@ -1,0 +1,9 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="WhitelistGUI">
+    <output-path>$PROJECT_DIR$/../../../Server 1.16.3/plugins</output-path>
+    <root id="archive" name="WhitelistGUI.jar">
+      <element id="module-output" name="WhitelistGUI" />
+      <element id="library" level="project" name="spigot" />
+    </root>
+  </artifact>
+</component>

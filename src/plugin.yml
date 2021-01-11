@@ -1,0 +1,8 @@
+name: WhitelistGUI
+version: 1.0
+main: de.rxbsi.whitelistgui.Plugin
+api-version: 1.13
+
+commands:
+  whitelistgui:
+  whitelistguiplayers:
